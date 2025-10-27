@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1181","test_login_data_driven[Valid login-pavanol@abc.com-test@123-success]","tests","2025-10-27","passed","2025-10-27","","test_login_data_driven","",""
+"","1277","test_login_data_driven[Invalid login-abcxyz@xyz.com-abcxyx-failure]","tests","2025-10-27","passed","2025-10-27","","test_login_data_driven","",""

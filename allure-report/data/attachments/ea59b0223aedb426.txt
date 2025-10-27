@@ -1,7 +1,0 @@
-🎯 Starting browser: chromium
-🎯 Headless mode: False (headed=True)
-🌐 Navigating to: https://tutorialsninja.com/demo/
-📹 Tracing enabled - capturing screenshots and actions
-📊 Test 'test_login_data_driven[Invalid login-abcxyz@xyz.com-abcxyx-failure]' result: ✅ PASSED
-💾 Trace saved: reports/traces/test_login_data_driven[Invalid login-abcxyz@xyz.com-abcxyx-failure]_trace.zip
-🧹 Closing browser context and stopping Playwright...
