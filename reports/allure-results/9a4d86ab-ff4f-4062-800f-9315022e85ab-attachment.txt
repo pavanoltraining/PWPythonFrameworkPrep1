@@ -1,0 +1,7 @@
+[OK] Starting browser: chromium
+[OK] Headless mode: False (headed=True)
+[INFO] Navigating to: https://tutorialsninja.com/demo/
+[TRACE] Tracing enabled - capturing screenshots and actions
+[RESULT] Test 'test_product_search' result: [PASS]
+[SAVE] Trace saved: reports/traces/test_product_search_trace.zip
+[CLEANUP] Closing browser context and stopping Playwright...

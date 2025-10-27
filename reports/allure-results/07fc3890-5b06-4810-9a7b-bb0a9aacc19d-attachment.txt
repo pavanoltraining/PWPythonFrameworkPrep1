@@ -1,0 +1,13 @@
+🎯 Starting browser: chromium
+🎯 Headless mode: False (headed=True)
+🌐 Navigating to: https://tutorialsninja.com/demo/
+📹 Tracing enabled - capturing screenshots and actions
+✅ Registration completed successfully!
+✅ Logout completed successfully!
+✅ Login completed successfully!
+✅ Product added to cart successfully!
+🛒 Navigated to Shopping Cart Page!
+✅ Shopping cart verification completed!
+📊 Test 'test_end_to_end_flow' result: ✅ PASSED
+💾 Trace saved: reports/traces/test_end_to_end_flow_trace.zip
+🧹 Closing browser context and stopping Playwright...
