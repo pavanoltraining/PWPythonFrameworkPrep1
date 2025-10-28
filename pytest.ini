@@ -10,7 +10,7 @@ addopts =
     # ------------------------------
     -v
     --browser=chromium
-    --headed
+    #--headed
     #--base-url=http://localhost/opencart/upload/
     --base-url=https://tutorialsninja.com/demo/
     #--base-url=https://naveenautomationlabs.com/opencart
